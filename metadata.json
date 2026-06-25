@@ -1,0 +1,6 @@
+{
+  "name": "MIT GPA Calculator",
+  "description": "A clean, modern GPA calculator for MIT Manipal students featuring real-time calculation, responsive card layout, and grade-to-point mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
